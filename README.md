@@ -13,4 +13,6 @@
 ## FASE 2
 [Presentación de Visualización de Datos](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Presentación_Visualización_01.pdf)  
 
-[Ejemplo Visualización de Datos](
+* [Ejemplo Visualización de Datos](https://github.com/Oscarcarg/MineriaDeDatos003/blob/main/Visualización.ipynb)
+
+[Calificaciones Kahoot de Visualización](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Resultados%20kahoot%20visualización.pdf)
