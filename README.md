@@ -7,3 +7,5 @@
 [Limpieza de Base de Datos (base 1)](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
 
 [Limpieza de Base de Datos (base 2)](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
+[Primer Avande del PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance_PIA_Equipo1%20(1).ipynb)
+etgef
