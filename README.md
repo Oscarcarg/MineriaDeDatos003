@@ -4,9 +4,9 @@
 
 [Ejercicios Básicos de Python](https://github.com/Oscarcarg/MineriaDeDatos003/blob/main/Ej_Python_1941600.ipynb)
 
-[Práctica 1: Lumpieza de Base de Datos (base 1)](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
+[Práctica 1: Limpieza de Base de Datos (base 1)](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
 
-[Práctica 1: Lumpieza de Base de Datos (base 2)](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
+[Práctica 1: Limpieza de Base de Datos (base 2)](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
 
 [Primer Avance del PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance_PIA_Equipo1%20(1).ipynb)
 
