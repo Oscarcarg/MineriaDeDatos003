@@ -21,5 +21,5 @@
 
 [Práctica II: Visualización de Datos](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Visualización1%20.ipynb)
 
-[Mapa Mental II]()
+[Mapa Mental II](https://github.com/Oscarcarg/MineriaDeDatos003/blob/main/MapaMental_2_1941600.pdf)
 
