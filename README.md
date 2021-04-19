@@ -23,3 +23,5 @@
 
 [Mapa Mental II](https://github.com/Oscarcarg/MineriaDeDatos003/blob/main/MapaMental_2_1941600.pdf)
 
+[Segundo Avance del PIA (Corregido)](https://github.com/Oscarcarg/MineriaDeDatos003/blob/main/AvancePIA_II_Grupo3_01_Corregido.ipynb)
+
