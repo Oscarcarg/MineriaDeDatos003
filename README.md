@@ -26,3 +26,5 @@
 [Segundo Avance del PIA (Corregido)](https://github.com/Oscarcarg/MineriaDeDatos003/blob/main/AvancePIA_II_Grupo3_01_Corregido.ipynb)
 
 [Avance de Poster del PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20.pdf)
+
+[Póster PIA](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20pt%202.pdf) 
